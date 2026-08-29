@@ -67,10 +67,4 @@ This repository is created to improve:
 * VS Code
 * Git & GitHub
 
-## 👩‍💻 Author
 
-**Priyanka Chaurasiya**
-
-B.Tech CSE Student | Python Learner | Aspiring Python Developer & AI Engineer
-
-⭐ If you find this repository useful, consider giving it a star!
